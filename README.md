@@ -13,21 +13,21 @@ ______
 
 Setup a development environment
 ------
-> Go to the environment.
-![ac1](/GitHub_info/anaconda_1.jpg)
+> ### Go to the environment.  
+> ![ac1](/GitHub_info/anaconda_1.jpg)
 
-> Create the new environment.
-![ac2](/GitHub_info/anaconda_2.jpg)
+> ### Create the new environment.  
+> ![ac2](/GitHub_info/anaconda_2.jpg)
 
-> Select the Python 3.9.12+.
-![ac3](/GitHub_info/anaconda_3.jpg)
+> ### Select the Python 3.9.12+.  
+> ![ac3](/GitHub_info/anaconda_3.jpg)
 
-> Open the Terminal.
-![ac4](/GitHub_info/anaconda_4.jpg)
+> ### Open the Terminal.  
+> ![ac4](/GitHub_info/anaconda_4.jpg)
 
-> Go to the path of the GitHub file.
+> ### Go to the path of the GitHub file.
 >> cd ***Your_file_path***  
->> pip install -r requirements.txt
+>> pip install -r requirements.txt  
 >
 > ![ac5](/GitHub_info/anaconda_5.jpg)
   
@@ -35,17 +35,17 @@ Setup a development environment
 ______
 Display the model in web app (Streamlit)
 ------
-> Open the web app in Terminal.
+> ### Open the web app in Terminal.
 >> app.bat
 >
-> ![ac6](/GitHub_info/anaconda_6.jpg)
+> ![ac6](/GitHub_info/anaconda_6.jpg)  
 
-> Import the jpg photo.
-![sl1](/GitHub_info/streamlit_1.jpg)
+> ### Import the jpg photo.  
+> ![sl1](/GitHub_info/streamlit_1.jpg)  
 
-> See the Face detected result by Haar-cascades and click the Sentiment Analysis to analyse the sentiment.
-![sl2](/GitHub_info/streamlit_2.jpg)
+> ### See the Face detected result by Haar-cascades and click the Sentiment Analysis to analyse the sentiment.  
+> ![sl2](/GitHub_info/streamlit_2.jpg)  
 
-> It displays the Sentiment analysis result and you can download the result by the '***Download image***' button.
-![sl3](/GitHub_info/streamlit_3.jpg)
+> ### It displays the Sentiment analysis result and you can download the result by the '***Download image***' button.  
+> ![sl3](/GitHub_info/streamlit_3.jpg)  
 
