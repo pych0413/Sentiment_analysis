@@ -88,6 +88,5 @@ if uploaded_file is not None:
         st.error("_____________ (｡•ᴗ•｡) _____________")
         st.error("No face, plase try anther photos")
         st.error("_____________ (｡•ᴗ•｡) _____________")
-        st.snow()
   
 
